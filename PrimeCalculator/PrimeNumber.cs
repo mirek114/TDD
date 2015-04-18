@@ -23,6 +23,16 @@ namespace PrimeCalculator
             return true;
         }
 
+        //Public: Sum prime numbers that are smaller or equal than given number
+        //
+        //range - the upper range of the summed numbers
+        //
+        //Examples
+        //
+        //GetSumOfPrime(10)=>17
+        //GetSumOfPrime(6)=>10
+        //
+        //Return sum of prime numbers
         public ulong GetSumOfPrime(int range)
         {
             for (actualNumber = 2; actualNumber <= range; actualNumber++)
