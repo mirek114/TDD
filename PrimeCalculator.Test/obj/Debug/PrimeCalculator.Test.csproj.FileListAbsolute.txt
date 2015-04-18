@@ -1,0 +1,7 @@
+C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator.Test\bin\Debug\PrimeCalculator.Test.dll
+C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator.Test\bin\Debug\PrimeCalculator.Test.pdb
+C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator.Test\obj\Debug\PrimeCalculator.Test.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator.Test\obj\Debug\PrimeCalculator.Test.dll
+C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator.Test\obj\Debug\PrimeCalculator.Test.pdb
+C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator.Test\bin\Debug\PrimeCalculator.exe
+C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator.Test\bin\Debug\PrimeCalculator.pdb

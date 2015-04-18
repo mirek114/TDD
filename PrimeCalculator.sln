@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeCalculator", "PrimeCalculator\PrimeCalculator.csproj", "{CBAE9830-BF1D-474A-AFDF-213DADD78EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeCalculator.Test", "PrimeCalculator.Test\PrimeCalculator.Test.csproj", "{1E0AA88D-6016-4E86-828A-FDFD34C1734E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAE9830-BF1D-474A-AFDF-213DADD78EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAE9830-BF1D-474A-AFDF-213DADD78EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAE9830-BF1D-474A-AFDF-213DADD78EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAE9830-BF1D-474A-AFDF-213DADD78EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0AA88D-6016-4E86-828A-FDFD34C1734E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0AA88D-6016-4E86-828A-FDFD34C1734E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0AA88D-6016-4E86-828A-FDFD34C1734E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0AA88D-6016-4E86-828A-FDFD34C1734E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
