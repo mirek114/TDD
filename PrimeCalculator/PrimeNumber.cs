@@ -25,7 +25,11 @@ namespace PrimeCalculator
 
         public ulong GetSumOfPrime(int range)
         {
-            return 0;
+            for (actualNumber = 2; actualNumber <= range; actualNumber++)
+                if (IsPrime(actualNumber))
+                    sum += Convert.ToUInt64(actualNumber);
+
+            return sum;
         }
     }
 }
