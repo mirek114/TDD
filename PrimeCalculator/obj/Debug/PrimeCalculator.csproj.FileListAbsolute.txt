@@ -1,6 +1,5 @@
 C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator\bin\Debug\PrimeCalculator.exe.config
 C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator\bin\Debug\PrimeCalculator.exe
 C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator\bin\Debug\PrimeCalculator.pdb
-C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator\obj\Debug\PrimeCalculator.csprojResolveAssemblyReference.cache
 C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator\obj\Debug\PrimeCalculator.exe
 C:\Users\domex\Desktop\TDD\PrimeCalculator\PrimeCalculator\obj\Debug\PrimeCalculator.pdb

@@ -8,6 +8,9 @@ namespace PrimeCalculator
 {
     public class PrimeNumber
     {
+        private int actualNumber;
+        private ulong sum;
+
         public bool IsPrime(int number)
         {
             if (number < 2)
@@ -18,6 +21,11 @@ namespace PrimeCalculator
                     return false;
 
             return true;
+        }
+
+        public ulong GetSumOfPrime(int range)
+        {
+            return 0;
         }
     }
 }

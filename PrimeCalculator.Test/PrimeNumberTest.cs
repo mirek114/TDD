@@ -7,12 +7,18 @@ namespace PrimeCalculator.Test
     [TestClass]
     public class PrimeNumberTest
     {
+        PrimeNumber primeNumber = new PrimeNumber();
+
         [TestMethod]
         public void IsPrimeTest()
         {
-            PrimeNumber primeNumber = new PrimeNumber();
-
             Assert.IsTrue(primeNumber.IsPrime(3));
+        }
+
+        [TestMethod]
+        public void GetSumOfPrimeTest()
+        {
+            Assert.AreEqual(primeNumber.GetSumOfPrime(10), 17ul);
         }
     }
 }
